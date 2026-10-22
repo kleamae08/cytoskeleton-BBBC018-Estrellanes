@@ -46,6 +46,14 @@ The actin image and its corresponding DNA image were examined using Fiji/ImageJ.
 
 ### 3.2 Cell Measurement
 
+### Fiji Measurement Procedure
+
+1. Open the selected actin image in Fiji/ImageJ and use the corresponding DNA image as a reference.
+2. Select five identifiable cells and outline each cell using the Freehand Selection tool.
+3. Measure the area, mean gray value, circularity, and aspect ratio of each selected cell.
+4. Save the measurements as a CSV file.
+5. Save the annotated image showing the measured cells.
+   
 Five identifiable cells were selected and outlined using the Freehand Selection tool in Fiji/ImageJ. The measurements included:
 
 - **Area:** The size of the outlined cell in pixels squared.
