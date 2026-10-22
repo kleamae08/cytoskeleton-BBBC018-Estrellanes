@@ -97,9 +97,7 @@ This plot compares the mean actin fluorescence intensity measured in each select
 
 The image below documents the five selected cells outlined for measurement in Fiji/ImageJ.
 
-![Fiji measurement screenshot](figures/measured_cells.png)
-
-[View measured_cells.png](figures/measured_cells.png)
+![Fiji cell measurement image](figures/IMG_9567-1.tif)
 
 ## 5. Guide Questions
 
