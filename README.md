@@ -136,7 +136,7 @@ The following files are available in this GitHub repository:
 | [analyze_cells.R](analyze_cells.R) | R script used for data analysis and plotting |
 | [area_vs_circularity.png](figures/area_vs_circularity.png) | Cell area versus circularity plot |
 | [actin_intensity.png](figures/actin_intensity.png) | Mean actin fluorescence intensity plot |
-| [measured_cells.png](figures/measured_cells.png) | Fiji screenshot showing the outlined cells |
+| [IMG_9567-1.tif](figures/IMG_9567-1.tif) | Fiji image showing the selected cells |
 
 ## 7. Conclusion
 
